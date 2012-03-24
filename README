@@ -1,0 +1,16 @@
+/* Sketch Garden Nanode.ino
+
+ Sketch Garden is a service for uploading sketches to your Nanode over the internet instead of using
+ an FTDI / Programming cable connected to your computer.
+
+ This library allows a remote reset, so you can upload sketches to your device from any computer
+  regardless of where your device is located.
+
+ For use with http://sketchgarden.co
+ This sketch is released into the public domain by 
+ Wicked Device LLC
+ Author: Vic Aprea, March 2012
+ Change Log:
+    - March 21, 2012, Initial Sketch, Vic Aprea
+  - March 22, 2012, Minor changes, Dirk Swart
+*/
